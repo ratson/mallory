@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 )
 
 type privKey struct {

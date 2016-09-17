@@ -10,7 +10,7 @@ package test
 
 import (
 	"bytes"
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 	"errors"
 	"io"
 	"strings"

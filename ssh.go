@@ -2,7 +2,7 @@ package mallory
 
 import (
 	"errors"
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 	"io/ioutil"
 	"net"
 	"net/http"

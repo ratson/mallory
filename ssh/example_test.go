@@ -12,7 +12,7 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/justmao945/mallory/ssh/terminal"
+	"gopkg.in/ratson/mallory.v0/ssh/terminal"
 )
 
 func ExampleNewServerConn() {

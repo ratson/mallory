@@ -12,8 +12,8 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"github.com/justmao945/mallory/ssh"
-	"github.com/justmao945/mallory/ssh/testdata"
+	"gopkg.in/ratson/mallory.v0/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh/testdata"
 )
 
 var (

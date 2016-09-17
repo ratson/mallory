@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/justmao945/mallory"
+	"gopkg.in/ratson/mallory.v0"
 	"log"
 	"net/http"
 )

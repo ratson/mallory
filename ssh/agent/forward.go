@@ -10,7 +10,7 @@ import (
 	"net"
 	"sync"
 
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 )
 
 // RequestAgentForwarding sets up agent forwarding for the session.

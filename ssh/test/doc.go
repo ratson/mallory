@@ -3,5 +3,5 @@
 // license that can be found in the LICENSE file.
 
 // This package contains integration tests for the
-// github.com/justmao945/mallory/ssh package.
+// gopkg.in/ratson/mallory.v0/ssh package.
 package test

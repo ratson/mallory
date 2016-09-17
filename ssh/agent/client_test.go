@@ -15,7 +15,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 )
 
 // startAgent executes ssh-agent, and returns a Agent interface to it.

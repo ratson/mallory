@@ -24,7 +24,7 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 )
 
 // Agent represents the capabilities of an ssh-agent.

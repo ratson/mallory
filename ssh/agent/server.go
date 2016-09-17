@@ -12,7 +12,7 @@ import (
 	"log"
 	"math/big"
 
-	"github.com/justmao945/mallory/ssh"
+	"gopkg.in/ratson/mallory.v0/ssh"
 )
 
 // Server wraps an Agent and uses it to implement the agent side of

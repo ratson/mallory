@@ -17,7 +17,7 @@ Status  [![Build Status](https://travis-ci.org/justmao945/mallory.svg?branch=mas
 Installation
 =============
 ```sh
-go get github.com/justmao945/mallory/cmd/mallory
+go get gopkg.in/ratson/mallory.v0/cmd/mallory
 ```
 
 Engines

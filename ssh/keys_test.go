@@ -17,7 +17,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/justmao945/mallory/ssh/testdata"
+	"gopkg.in/ratson/mallory.v0/ssh/testdata"
 )
 
 func rawKey(pub PublicKey) interface{} {

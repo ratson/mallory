@@ -14,7 +14,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/justmao945/mallory/ssh/terminal"
+	"gopkg.in/ratson/mallory.v0/ssh/terminal"
 )
 
 type serverType func(Channel, <-chan *Request, *testing.T)

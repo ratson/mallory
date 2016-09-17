@@ -1,7 +1,7 @@
 package mallory
 
 import (
-	"github.com/justmao945/mallory/proxy"
+	"gopkg.in/ratson/mallory.v0/proxy"
 	"net"
 	"net/http"
 	"net/url"
